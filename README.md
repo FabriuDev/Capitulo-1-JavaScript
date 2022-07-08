@@ -1,5 +1,4 @@
 # Capitulo-1-JavaScript
----
 # Variables
 ---
 - Usos para una variable:
